@@ -1,12 +1,12 @@
-## Hi there 👋
+## 서비스 소개
 
-<!--
+**프로젝트 우당탕탕**은 스튜디오 우당탕탕의 프로젝트를 지도 기반으로 소개하고, 프로젝트 의뢰와 참여 신청을 연결하는 웹 플랫폼입니다.
 
-**Here are some ideas to get you started:**
+완료된 프로젝트는 지도와 상세 페이지를 통해 아카이빙되며, </br> 
+사용자는 지역 기반으로 프로젝트 사례를 확인하고 모집 중인 프로젝트에 참여할 수 있습니다.</br> 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+의뢰자는 웹사이트를 통해 프로젝트를 신청할 수 있고, </br> 
+관리자는 의뢰·참여 신청 관리, 프로젝트 등록, 문자 발송, 콘텐츠 및 통계 관리 등 운영에 필요한 기능을 처리할 수 있습니다.</br> 
+
+본 서비스는 단순한 프로젝트 목록 제공을 넘어,  </br>
+**의뢰 → 모집 → 실행 → 기록 → 확산**으로 이어지는 흐름을 만들고자 합니다.
