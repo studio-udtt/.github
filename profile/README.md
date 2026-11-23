@@ -58,10 +58,8 @@
 <br/>
 
 </div>
+<video src="https://github.com/user-attachments/assets/95114383-8c61-4d77-898d-eccee14ad707" width="85%" controls></video>
 
-<!-- 아래 줄을 GitHub에 업로드한 영상 URL로 교체하세요. -->
-
-https://github.com/user-attachments/assets/영상-ID
 
 <br/>
 
